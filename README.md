@@ -8,7 +8,7 @@ A lightweight but powerful time-series analytics dashboard for tracking and fore
 
 ## 🚀 Live Demo
 
-[![Click me to live Demo](https://img.shields.io/badge/Website-Click%20for%20live%20Demo-blue?style=for-the-badge&logo=website)](https://youtu.be/TyeTkq0-3Qg)
+[![Click me to live Demo](https://img.shields.io/badge/Website-Click%20for%20live%20Demo-blue?style=for-the-badge&logo=website)](https://weightasec.streamlit.app/)
 [![Click me to watch Demo](https://img.shields.io/badge/YouTube-Click%20to%20watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/TyeTkq0-3Qg)
 ---
 
